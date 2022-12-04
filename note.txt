@@ -7,3 +7,5 @@
 
 
     - Phím tắt: control + "`"
+
+- git log: xem lại lịch sử commit
