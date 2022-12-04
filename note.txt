@@ -16,3 +16,11 @@
 
 
 -git push: đẩy tất cả commit lên trên remote repository 
+
+- git status => git add . => git status => git commit -m "message" => git push 
+
+
+
+- git checkout: chuyển sang một branch khách 
++ git checkout branch-name: chuyển branch
+- git checkout -b branch-name: Tạo branch
